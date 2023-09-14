@@ -1,10 +1,24 @@
+
+
 import React from "react";
 
+ 
+
 function Header() {
+
     return (
+
         <div>
-            Capgemini - Women in Innovation Magic
+
+            BloomNBlossom - Let's Go Cloud - Magic Begins  
+
         </div>
+
     );
+
 }
+
 export default Header;
+
+
+
